@@ -1,0 +1,31 @@
+{
+    "List":["KrungThai", "SCB", "Kisikorn", "Krungsri"],
+    "KrungThai":
+    {
+        "ACCNumber": 999999999,
+        "Name": "MyAccountName",
+        "Bank": "KrungThai",
+        "Pic": "KrungThai.jpg"
+    },
+    "SCB":
+    {
+        "ACCNumber": 999999999,
+        "Name": "MyAccountName",
+        "Bank": "SCB",
+        "Pic": "SCB.jpg"
+    },
+    "Kisikorn":
+    {
+        "ACCNumber": 999999999,
+        "Name": "MyAccountName",
+        "Bank": "Kisikorn",
+        "Pic": "Kisikorn.jpg"
+    },
+    "Krungsri":
+    {
+        "ACCNumber": 999999999,
+        "Name": "MyAccountName",
+        "Bank": "Krungsri",
+        "Pic": "Krungsri.jpg"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "ModelType":["lmYjE", "lg7vm"],
+    "lmYjE":["RrtS6", "Do5Au", "O6z4N", "LLTCQ", "lEtbK", "dTHyt", "MvG9C", "9mliy"],
+    "lg7vm":["iIfgi", "CG2KD", "9YKk2", "faosL", "47MFo", "ldaob"],
+    "RrtS6":"Apple",
+    "Do5Au":"Samsung",
+    "O6z4N":"Oppo",
+    "LLTCQ":"Vivo",
+    "lEtbK":"Nokia",
+    "dTHyt":"Sony",
+    "MvG9C":"Hauwei",
+    "9mliy":"Realme",
+    "iIfgi":"Acer",
+    "CG2KD":"Asus",
+    "9YKk2":"Dell",
+    "faosL":"HP",
+    "47MFo":"Lenovo",
+    "ldaob":"MSI"
+}
