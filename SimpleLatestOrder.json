@@ -1,0 +1,66 @@
+{
+    "6g4n5":
+    {
+        "ModelName":"Do5Au",
+        "OrderName":"Samsung Galaxy S20+ 5G",
+        "Cost":30000,
+        "Date":20200306,
+        "Among":15
+    },
+    "DjTAu":
+    {
+        "ModelName":"Do5Au",
+        "OrderName":"Samsung Galaxy S20 Ultra 5G",
+        "Cost":35000,
+        "Date":20200306,
+        "Among":15
+    },
+    "RaZlU":
+    {
+        "ModelName":"Do5Au",
+        "OrderName":"Samsung Galaxy S20 Ultra",
+        "Cost":32000,
+        "Date":20200211,
+        "Among":15
+    },
+    "M7PUb":
+    {
+        "ModelName":"Do5Au",
+        "OrderName":"Samsung Galaxy A41",
+        "Cost":21000,
+        "Date":20200630,
+        "Among":15
+    },
+    "r2UgC":
+    {
+        "ModelName":"Do5Au",
+        "OrderName":"Samsung Galaxy M21",
+        "Cost":21000,
+        "Date":20200318,
+        "Among":15
+    },
+    "aQl0m":
+    {
+        "ModelName":"Do5Au",
+        "OrderName":"Samsung Galaxy A11",
+        "Cost":17000,
+        "Date":20200430,
+        "Among":15
+    },
+    "joZ2U":
+    {
+        "ModelName":"Do5Au",
+        "OrderName":"Samsung Galaxy M31",
+        "Cost":14000,
+        "Date":20200505,
+        "Among":15
+    },
+    "JmhPj":
+    {
+        "ModelName":"Do5Au",
+        "OrderName":"Samsung Galaxy A31",
+        "Cost":22000,
+        "Date":20200430,
+        "Among":15
+    }
+}
