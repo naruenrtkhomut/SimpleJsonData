@@ -2,25 +2,25 @@
     "List":["Facebook", "Twitter", "Youtube", "Line"],
     "Facebook":
     {
-        "Name":"NaruenartKhomut",
+        "Name":"SocailName",
         "Link":"https://web.facebook.com/",
         "Pic":""
     },
     "Twitter":
     {
-        "Name":"NaruenartKhomut",
+        "Name":"SocailName",
         "Link":"https://twitter.com/explore",
         "Pic":""
     },
     "Youtube":
     {
-        "Name":"NaruenartKhomut",
+        "Name":"SocailName",
         "Link":"https://www.youtube.com/",
         "Pic":""
     },
     "Line":
     {
-        "Name":"NaruenartKhomut",
+        "Name":"SocailName",
         "Link":"https://linecorp.com/en/",
         "Pic":""
     }

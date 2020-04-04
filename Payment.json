@@ -3,28 +3,28 @@
     "KrungThai":
     {
         "ACCNumber": 999999999,
-        "Name": "Naruenart Khomut",
+        "Name": "MyAccountName",
         "Bank": "KrungThai",
         "Pic": ""
     },
     "SCB":
     {
         "ACCNumber": 999999999,
-        "Name": "Naruenart Khomut",
+        "Name": "MyAccountName",
         "Bank": "SCB",
         "Pic": ""
     },
     "Kisikorn":
     {
         "ACCNumber": 999999999,
-        "Name": "Naruenart Khomut",
+        "Name": "MyAccountName",
         "Bank": "Kisikorn",
         "Pic": ""
     },
     "Krungsri":
     {
         "ACCNumber": 999999999,
-        "Name": "Naruenart Khomut",
+        "Name": "MyAccountName",
         "Bank": "Krungsri",
         "Pic": ""
     }
