@@ -1,0 +1,27 @@
+{
+    "List":["Facebook", "Twitter", "Youtube", "Line"],
+    "Facebook":
+    {
+        "Name":"NaruenartKhomut",
+        "Link":"https://web.facebook.com/",
+        "Pic":""
+    },
+    "Twitter":
+    {
+        "Name":"NaruenartKhomut",
+        "Link":"https://twitter.com/explore",
+        "Pic":""
+    },
+    "Youtube":
+    {
+        "Name":"NaruenartKhomut",
+        "Link":"https://www.youtube.com/",
+        "Pic":""
+    },
+    "Line":
+    {
+        "Name":"NaruenartKhomut",
+        "Link":"https://linecorp.com/en/",
+        "Pic":""
+    }
+}
