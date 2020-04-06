@@ -4,27 +4,27 @@
         "ACCNumber": 999999999,
         "Name": "MyAccountName",
         "Bank": "KrungThai",
-        "Pic": "KrungThai.jpg"
+        "Pic": "https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/c4/e7/da/c4e7dafc-87fe-05ab-76e2-8dc0386bf90d/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-P3-85-220.png/246x0w.png"
     },
     "SCB":
     {
         "ACCNumber": 999999999,
         "Name": "MyAccountName",
         "Bank": "SCB",
-        "Pic": "SCB.jpg"
+        "Pic": "https://www.elphiabeautythailand.com/wp-content/uploads/2019/01/scb-icon.png"
     },
     "Kisikorn":
     {
         "ACCNumber": 999999999,
         "Name": "MyAccountName",
         "Bank": "Kisikorn",
-        "Pic": "Kisikorn.jpg"
+        "Pic": "https://i.pinimg.com/474x/00/24/29/002429e4b28532ce5273cafa10be61c2.jpg"
     },
     "Krungsri":
     {
         "ACCNumber": 999999999,
         "Name": "MyAccountName",
         "Bank": "Krungsri",
-        "Pic": "Krungsri.jpg"
+        "Pic": "https://www.job4thai.com/wp-content/uploads/job-bank-of-ayudhya.jpg"
     }
 }
