@@ -1,0 +1,79 @@
+{
+    "Mon":
+    {
+        "Open":
+        {
+            "Hour": 8, "Minute": 30
+        },
+        "Close":
+        {
+            "Hour": 16, "Close": 30
+        }
+    },
+    "Tues":
+    {
+        "Open":
+        {
+            "Hour": 8, "Minute": 30
+        },
+        "Close":
+        {
+            "Hour": 16, "Close": 30
+        }
+    },
+    "Wednes":
+    {
+        "Open":
+        {
+            "Hour": 8, "Minute": 30
+        },
+        "Close":
+        {
+            "Hour": 16, "Close": 30
+        }
+    },
+    "Thus":
+    {
+        "Open":
+        {
+            "Hour": 8, "Minute": 30
+        },
+        "Close":
+        {
+            "Hour": 16, "Close": 30
+        }
+    },
+    "Fri":
+    {
+        "Open":
+        {
+            "Hour": 8, "Minute": 30
+        },
+        "Close":
+        {
+            "Hour": 16, "Close": 30
+        }
+    },
+    "Satur":
+    {
+        "Open":
+        {
+            "Hour": 0, "Minute": 0
+        },
+        "Close":
+        {
+            "Hour": 0, "Close": 0
+        }
+    },
+    "Sun":
+    {
+        "Open":
+        {
+            "Hour": 0, "Minute": 0
+        },
+        "Close":
+        {
+            "Hour": 0, "Close": 0
+        }
+    }
+}

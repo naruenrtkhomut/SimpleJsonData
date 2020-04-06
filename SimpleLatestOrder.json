@@ -1,0 +1,98 @@
+{
+    "zgVsP":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy A30s",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a30s.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "g6NgN":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy Fold",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-fold.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "Iakb6":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy M10s",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m10s-m107f.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "KYwdd":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy A71",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a71.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "MLeWM":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy Xcover Pro",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-xcover-pro-.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "F3YY6":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy S20 5G",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "7Hj1v":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone XS Max",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "ycNdT":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 11 Pro Max",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    }
+}

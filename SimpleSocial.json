@@ -1,0 +1,26 @@
+{
+    "Facebook":
+    {
+        "Name":"SocailName",
+        "Link":"https://web.facebook.com/",
+        "Pic":"Facebook.png"
+    },
+    "Twitter":
+    {
+        "Name":"SocailName",
+        "Link":"https://twitter.com/explore",
+        "Pic":"Twitter.png"
+    },
+    "Youtube":
+    {
+        "Name":"SocailName",
+        "Link":"https://www.youtube.com/",
+        "Pic":"Youtube.png"
+    },
+    "Line":
+    {
+        "Name":"SocailName",
+        "Link":"https://linecorp.com/en/",
+        "Pic":"Line.png"
+    }
+}
