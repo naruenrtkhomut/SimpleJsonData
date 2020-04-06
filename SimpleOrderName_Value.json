@@ -1,82 +1,602 @@
 {
-    "EblWj":
+    "ycNdT":
     {
-        "ModelName":"Do5Au",
-        "OrderName":"Samsung Galaxy M11",
-        "Cost":15000,
-        "Date":20200330,
-        "Among":25
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 11 Pro Max",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
     },
-    "JmhPj":
+    "zBaSM":
     {
-        "ModelName":"Do5Au",
-        "OrderName":"Samsung Galaxy A31",
-        "Cost":22000,
-        "Date":20200430,
-        "Among":15
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 11 Pro",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
     },
-    "M7PUb":
+    "NsHRj":
     {
-        "ModelName":"Do5Au",
-        "OrderName":"Samsung Galaxy A41",
-        "Cost":21000,
-        "Date":20200630,
-        "Among":15
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 11",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
     },
-    "r2UgC":
+    "7Hj1v":
     {
-        "ModelName":"Do5Au",
-        "OrderName":"Samsung Galaxy M21",
-        "Cost":21000,
-        "Date":20200318,
-        "Among":15
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone XS Max",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
     },
-    "aQl0m":
+    "juXBQ":
     {
-        "ModelName":"Do5Au",
-        "OrderName":"Samsung Galaxy A11",
-        "Cost":17000,
-        "Date":20200430,
-        "Among":15
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone XS",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
     },
-    "joZ2U":
+    "GdWGx":
     {
-        "ModelName":"Do5Au",
-        "OrderName":"Samsung Galaxy M31",
-        "Cost":14000,
-        "Date":20200505,
-        "Among":15
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone XR",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
     },
-    "DjTAu":
+    "MHKSG":
     {
-        "ModelName":"Do5Au",
-        "OrderName":"Samsung Galaxy S20 Ultra 5G",
-        "Cost":35000,
-        "Date":20200306,
-        "Among":15
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone X",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-x.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
     },
-    "RaZlU":
+    "jjb7R":
     {
-        "ModelName":"Do5Au",
-        "OrderName":"Samsung Galaxy S20 Ultra",
-        "Cost":32000,
-        "Date":20200211,
-        "Among":15
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 8 Plus",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-8-plus-new.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
     },
-    "6g4n5":
+    "8FPAN":
     {
-        "ModelName":"Do5Au",
-        "OrderName":"Samsung Galaxy S20+ 5G",
-        "Cost":30000,
-        "Date":20200306,
-        "Among":15
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 8",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-8-new.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
     },
-    "Zcioq":
+    "LjiqI":
     {
-        "ModelName":"Do5Au",
-        "OrderName":"Samsung Galaxy S20+",
-        "Cost":28000,
-        "Date":20200306,
-        "Among":15
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 7 Plu",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-7-plus-r2.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "ag7sT":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 7",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-7r4.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "5BgqZ":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 6s Plus",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-6s-plus.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "9kdMj":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 6s",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-6s1.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "yBtrN":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 6 Plus",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-6-plus2.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "E6PWX":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 6",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-6-4.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "e9mxT":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 5s",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-5s-ofic.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "ToRAC":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 5c",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-5c-new2.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "AFjIb":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 5",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-5-ofic.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "DvHsE":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 4s",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-4s-new.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "cRxdG":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 4",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-4-ofic-final.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "ofFJK":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 4 CDMA",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone4-cdma.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "oCluC":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 3GS",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-3gs-ofic.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "17WKU":
+    {
+        "ModelName" : "RrtS6",
+        "OrderName" : "Apple iPhone 3G",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone3g.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "l9w2Y":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy M11",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m11-sm-m115.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "CEioK":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy A31",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a31.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "VE4lo":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy A41",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a41-.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "nCKF1":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy M21",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m21.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "V1ejA":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy A11",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a11.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "Jmjhd":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy M31",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m31-sm-m315f.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "E5IM2":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy S20 Ultra 5G",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-ultra-.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "sHLq1":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy S20 Ultra",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-ultra-.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "tZjW0":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy S20+ 5G",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-plus.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "3sJPe":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy S20+",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-plus.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "F3YY6":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy S20 5G",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "NRzBN":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy S20",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s20-.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "MLeWM":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy Xcover Pro",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-xcover-pro-.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "LXZZm":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy Note10 Lite",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/sasmung-galaxy-note10-lite-r.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "iI4OC":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy S10 Lite",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/sasmung-galaxy-s10-lite-.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "3axo3":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy A01",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a01.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "KYwdd":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy A71",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a71.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "ReOER":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy A51",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a51-sm-a515.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "QKnpx":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy A70s",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a70s-.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "H3Fcg":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy A20s",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a20s-sm-a207.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "75Glx":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy M30s",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m30s-.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "Iakb6":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy M10s",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m10s-m107f.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "uTReE":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy Fold 5G",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-fold-5g.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "g6NgN":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy Fold",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-fold.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "xW87A":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy A90 5G",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a90-5g.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "zgVsP":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "Samsung Galaxy A30s",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a30s.jpg",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
+    },
+    "CoPd4":
+    {
+        "ModelName" : "Do5Au",
+        "OrderName" : "X",
+        "cost" : 25000,
+        "among" : 25,
+        "pic" : "X",
+        "Spec1" : "Spec1",
+        "Spec2" : "Spec2",
+        "Spec3" : "Spec3",
+        "Spec4" : "Spec4" 
     }
 }
