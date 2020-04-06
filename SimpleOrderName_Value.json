@@ -586,17 +586,5 @@
         "Spec2" : "Spec2",
         "Spec3" : "Spec3",
         "Spec4" : "Spec4" 
-    },
-    "CoPd4":
-    {
-        "ModelName" : "Do5Au",
-        "OrderName" : "X",
-        "cost" : 25000,
-        "among" : 25,
-        "pic" : "X",
-        "Spec1" : "Spec1",
-        "Spec2" : "Spec2",
-        "Spec3" : "Spec3",
-        "Spec4" : "Spec4" 
     }
 }
